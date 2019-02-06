@@ -1,0 +1,7 @@
+Ivanov;High Math;2011;30
+Perro;Cinderella;1990;20
+Pushkin;Gold fish;2000;17
+Pushkin;Gold fish;2005;13
+Pushkin;Gold fish;2001;17
+Ekkel;Art of Programming;1986;46
+Petrov;Russian;2005;20
